@@ -7,7 +7,7 @@ public class TodaysDate {
 		System.out.println("This is from snehalatha modified");
 		System.out.println("msdbsdfgbjk");
 		System.out.println("Hieee");
-		System.out.println("This is form sneha");
+		System.out.println("This is modified by snehlatha");
 	}
 
 	
